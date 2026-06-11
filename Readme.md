@@ -187,13 +187,16 @@ pip install torch-scatter torch-sparse torch-cluster torch-spline-conv torch-geo
 ## 3. 关键依赖
 
 | 库               | 版本     |
-| --------------- | ------ |
-| Python          | 3.9    |
-| PyTorch         | 2.0    |
-| torch-geometric | 2.4    |
-| transformers    | latest |
-| scikit-learn    | 1.3    |
-| pandas          | 1.3    |
+|----------|----------|
+| Python | 3.8.19 |
+| PyTorch | 2.0.1 |
+| CUDA | 11.7 |
+| PyTorch Geometric | 2.3.1 |
+| Transformers | 4.46.3 |
+| Scikit-learn | 1.3.2 |
+| Pandas | 2.0.3 |
+| NumPy | 1.24.3 |
+| SciPy | 1.10.1 |
 
 ---
 
